@@ -7,6 +7,8 @@
 
 //fonction de multiplication par Fatou
 float multiplication(float a, float b) {
+   printf("Multiplication de %.2f et %.2f\n", a, b);
+   
     return a * b;
 }
 
