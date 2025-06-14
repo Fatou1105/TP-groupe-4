@@ -4,6 +4,7 @@
 //fonction de soustraction par Cynthia
 
 
+
 //fonction de multiplication par Fatou
 
 
