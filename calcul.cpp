@@ -6,7 +6,9 @@
 
 
 //fonction de multiplication par Fatou
-
+float multiplication(float a, float b) {
+    return a * b;
+}
 
 
 //fonction de  division par Alix
